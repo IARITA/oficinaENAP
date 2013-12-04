@@ -9,9 +9,7 @@ Utilize a poesia abaixo para encarnar um dos personagens e componha um parágraf
     Bem em frente a ribanceira
     Uma cruz a gente vê
 
-    Estamos unidos a espera de Rosinha
-    Ela vem cheia de graça
-    sempre alegre ela caminha
+    
     
     Quem fincou foi a Rosinha
     Que é cabrocha de alta linha
